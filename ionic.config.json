@@ -1,4 +1,5 @@
 {
-  "name": "mandarin",
-  "app_id": ""
+  "name": "mandarin3",
+  "app_id": "",
+  "type": "ionic-angular"
 }
